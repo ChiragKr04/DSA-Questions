@@ -1,40 +1,56 @@
-# Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
-class Solution:
-    def deepestLeavesSum(self, root: Optional[TreeNode]) -> int:
-        
-        # using BFS
-        
-        # dict for storing level wise values
-        dc = {}
-        
-        def level(root,lvl):
-            
-            if root is None:
-                # return 0 is at end of root
-                return 0
-            
-            # checking if we at leaf node coz right and left are null
-            if root.left is None and root.right is None:
-                # inserting if level already exists
-                if lvl in dc:
-                    dc[lvl].append(root.val)
-                # new key for level if not in dict
-                else:
-                    dc[lvl] = [root.val]
-            
-            # left side of tree
-            level(root.left,lvl+1)
-            # right side of tree
-            level(root.right,lvl+1)
-        
-        level(root,0)
-        
-        # getting value from max key (which is deepest level) and adding and returning 
-        return sum(dc[max(dc)])
-        
-        
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+    
+    // using DFS
+    
+    // global level => stores the max level we gone so far
+    int mainlvl = -1;
+    // sum to return
+    int sum = 0;
+    
+    public int deepestLeavesSum(TreeNode root) {
+        level(root,0);
+        return sum;    
+    }
+    
+    void level(TreeNode root, int lvl){
+        if(root==null){
+            return;
+        }
+        // Check if we at leaf node
+        if(root.left == null && root.right == null){
+            // if gloval lvl is less than current lvl
+            // change global lvl to curr lvl and init sum 
+            // (re-init sum) coz what if we we have more leaf node at down
+            if(mainlvl < lvl){
+                mainlvl = lvl;
+                sum = root.val;   
+            }
+            // check if curr lvl and main lvl is same 
+            // means we at same lvl
+            // the add to sum
+            else if(mainlvl == lvl){
+                sum += root.val;
+            }
+        }
+        // left tree
+        level(root.left,lvl+1);
+        // right tree
+        level(root.right,lvl+1);
+    }
+    
+}
