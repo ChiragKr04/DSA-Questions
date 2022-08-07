@@ -26,7 +26,6 @@ class Solution:
         
         
         for n in preorder[1:]:
-            print(n)
             helper(root, n)
         
         return root
