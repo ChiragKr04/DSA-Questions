@@ -4,6 +4,9 @@ class Solution:
         if len(nums) == 0:
             return 0
         
+        if len(nums) == 1:
+            return nums[0]
+        
         p1 = 0
         p2 = 0
         
