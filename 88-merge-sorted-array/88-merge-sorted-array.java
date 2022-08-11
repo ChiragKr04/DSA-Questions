@@ -24,7 +24,7 @@ class Solution {
                 insertAt--;
                 
             }
-            System.out.println(Arrays.toString(nums1) + " " + nums1Last + " " + nums2Last + " "+ insertAt);
+            
         }
         
         
