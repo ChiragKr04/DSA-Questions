@@ -13,7 +13,6 @@ class Solution:
             return True
         
         
-        
         if(root.val>=right or root.val<=left):
             return False
         
