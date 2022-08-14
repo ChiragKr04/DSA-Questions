@@ -13,10 +13,10 @@ class Solution:
         
         larr[le-1] = values[le-1] - (le-1)
         
-        for i in range(le-2,-1,-1):
+        for i in range(le-2,0,-1):
             larr[i] = max(values[i]-i,larr[i+1])
             
-        # print(larr,rarr)
+        print(rarr,larr)
             
         
         for i in range(le-1):
