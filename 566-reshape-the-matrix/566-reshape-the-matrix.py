@@ -13,10 +13,7 @@ class Solution:
             return mat
         
         for row in range(r):
-            arr = flat[row * c : row * c + c]
-            if len(arr) == 0:
-                continue
-            res.append(arr)
+            res.append(flat[row * c : row * c + c])
                 
             
         return res
