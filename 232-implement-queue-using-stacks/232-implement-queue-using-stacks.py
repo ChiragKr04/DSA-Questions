@@ -7,16 +7,28 @@ class MyQueue:
         
 
     def push(self, x: int) -> None:
+        
+        while len(self.s1) != 0:
+            self.s2.append(self.s1[-1])
+            self.s1.pop()
+            
         self.s1.append(x)
+        
+        
+        while len(self.s2) != 0:
+            self.s1.append(self.s2[-1])
+            self.s2.pop()
 
 
     def pop(self) -> int:
 
-        return self.s1.pop(0)
+        x = self.s1[-1]
+        self.s1.pop()
+        return x
 
     def peek(self) -> int:
-
-        return self.s1[0]
+        return self.s1[-1]
+        
 
     def empty(self) -> bool:
         
