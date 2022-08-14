@@ -16,7 +16,7 @@ class Solution:
         for i in range(le-2,0,-1):
             larr[i] = max(values[i]-i,larr[i+1])
             
-        print(rarr,larr)
+        # print(rarr,larr)
             
         
         for i in range(le-1):
