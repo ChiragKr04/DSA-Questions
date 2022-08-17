@@ -6,7 +6,7 @@ class Solution:
                  "-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-",
                  "..-","...-",".--","-..-","-.--","--.."]
         
-        m = {}
+        m = set({})
         
         for word in words:
             out = []
@@ -15,12 +15,8 @@ class Solution:
                 
             jstr = "".join(out)
             
-            if jstr in m:
-                
-                m[jstr] = m[jstr]+1
-            
-            else:
-                m[jstr] = 1
+            if jstr not in m:
+                m.add(jstr)
         
         return len(m)
                 
