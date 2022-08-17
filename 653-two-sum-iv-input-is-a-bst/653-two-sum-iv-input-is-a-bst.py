@@ -5,34 +5,26 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def findTarget(self, root: Optional[TreeNode], target: int) -> bool:
+    def findTarget(self, root: Optional[TreeNode], k: int) -> bool:
         
-        out = []
+        m = {}
         
         def helper(root):
             
             if root is None:
                 return
             
-            out.append(root.val)
-            helper(root.left)
-            helper(root.right)
-        
-        helper(root)
-        
-        m = {}
-        
-        for i,val in enumerate(out):
-            
-            tg = target - val
-            
-            if tg in m:
-                
+            if root.val in m:
                 return True
             
-            m[val] = i
+            m[k-root.val] = True
             
-        return False
+            return helper(root.left) or helper(root.right)
+            
+        
+        return helper(root)
+        
+        
         
         
         
