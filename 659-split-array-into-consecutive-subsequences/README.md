@@ -14,28 +14,28 @@
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
-<pre><strong>Input:</strong> nums = [1,2,3,3,4,5]
+<pre style="position: relative;"><strong>Input:</strong> nums = [1,2,3,3,4,5]
 <strong>Output:</strong> true
 <strong>Explanation:</strong> nums can be split into the following subsequences:
 [<strong><u>1</u></strong>,<strong><u>2</u></strong>,<strong><u>3</u></strong>,3,4,5] --&gt; 1, 2, 3
 [1,2,3,<strong><u>3</u></strong>,<strong><u>4</u></strong>,<strong><u>5</u></strong>] --&gt; 3, 4, 5
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p><strong>Example 2:</strong></p>
 
-<pre><strong>Input:</strong> nums = [1,2,3,3,4,4,5,5]
+<pre style="position: relative;"><strong>Input:</strong> nums = [1,2,3,3,4,4,5,5]
 <strong>Output:</strong> true
 <strong>Explanation:</strong> nums can be split into the following subsequences:
 [<strong><u>1</u></strong>,<strong><u>2</u></strong>,<strong><u>3</u></strong>,3,<strong><u>4</u></strong>,4,<strong><u>5</u></strong>,5] --&gt; 1, 2, 3, 4, 5
 [1,2,3,<strong><u>3</u></strong>,4,<strong><u>4</u></strong>,5,<strong><u>5</u></strong>] --&gt; 3, 4, 5
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p><strong>Example 3:</strong></p>
 
-<pre><strong>Input:</strong> nums = [1,2,3,4,4,5]
+<pre style="position: relative;"><strong>Input:</strong> nums = [1,2,3,4,4,5]
 <strong>Output:</strong> false
 <strong>Explanation:</strong> It is impossible to split nums into consecutive increasing subsequences of length 3 or more.
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
