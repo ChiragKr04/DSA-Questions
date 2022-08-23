@@ -16,7 +16,6 @@ class Solution:
             temp = temp.next
             
         r = list(reversed(res))
-        print(r)
         
         return res == r
         
