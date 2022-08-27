@@ -8,7 +8,7 @@ class Solution:
         
         sl = fs = head
         
-        while fs is not None and fs.next is not None:
+        while fs and fs.next:
             sl = sl.next
             fs = fs.next.next
             
