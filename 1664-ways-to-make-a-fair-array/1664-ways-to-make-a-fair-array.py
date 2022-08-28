@@ -3,8 +3,8 @@ class Solution:
         
         l = len(nums)
         
-        odd = list([0]*l)
-        even = list([0]*l)
+        odd = list()
+        even = list()
         
         osum = 0
         esum = 0
@@ -19,8 +19,8 @@ class Solution:
                 
                 osum += nums[i]
                 
-            odd[i] = osum
-            even[i] = esum
+            odd.append(osum)
+            even.append(esum)
         
         ans = 0
         
