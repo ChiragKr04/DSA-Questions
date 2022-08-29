@@ -15,7 +15,7 @@
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
-<pre><strong>Input:</strong> nums = [2,1,6,4]
+<pre style="position: relative;"><strong>Input:</strong> nums = [2,1,6,4]
 <strong>Output:</strong> 1
 <strong>Explanation:</strong>
 Remove index 0: [1,6,4] -&gt; Even sum: 1 + 4 = 5. Odd sum: 6. Not fair.
@@ -23,21 +23,21 @@ Remove index 1: [2,6,4] -&gt; Even sum: 2 + 4 = 6. Odd sum: 6. Fair.
 Remove index 2: [2,1,4] -&gt; Even sum: 2 + 4 = 6. Odd sum: 1. Not fair.
 Remove index 3: [2,1,6] -&gt; Even sum: 2 + 6 = 8. Odd sum: 1. Not fair.
 There is 1 index that you can remove to make nums fair.
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p><strong>Example 2:</strong></p>
 
-<pre><strong>Input:</strong> nums = [1,1,1]
+<pre style="position: relative;"><strong>Input:</strong> nums = [1,1,1]
 <strong>Output:</strong> 3
 <strong>Explanation:</strong>&nbsp;You can remove any index and the remaining array is fair.
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p><strong>Example 3:</strong></p>
 
-<pre><strong>Input:</strong> nums = [1,2,3]
+<pre style="position: relative;"><strong>Input:</strong> nums = [1,2,3]
 <strong>Output:</strong> 0
 <strong>Explanation:</strong>&nbsp;You cannot make a fair array after removing any index.
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
