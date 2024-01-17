@@ -11,19 +11,8 @@ class Solution:
             else:
                 
                 map[val] = 1
-                
-        map2 = map.values()
-        temp = {}
-        
-        for val in map2:
-            
-            if val in temp:
-                return False
-            
-            else:
-                temp[val] = 1
-        
-        return True
+
+        return len(map) == len(set(map.values()))
         
         
         
