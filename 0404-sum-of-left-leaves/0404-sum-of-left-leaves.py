@@ -11,7 +11,7 @@ class Solution:
         
         def traverse(root, isLeft):
             
-            if not root.left and not root.right:
+            if root.left is None and root.right is None:
                 
                 if isLeft:
                     self.sum += root.val
