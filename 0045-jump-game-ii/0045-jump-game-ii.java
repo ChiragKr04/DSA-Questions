@@ -6,12 +6,12 @@ class Solution {
                 
         for(int i = 0; i < nums.length - 1; i++){
             curMaxDist = Math.max(curMaxDist, i + nums[i]);
-            if (i == end){
+            if (i == end) {
                  myjumps += 1;
                 
                 end = curMaxDist;
             }
-               
+               System.out.println();
         }
         
         return myjumps;
