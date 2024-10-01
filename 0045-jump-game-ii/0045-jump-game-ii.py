@@ -11,6 +11,8 @@ class Solution:
             
             curMaxDist = max(curMaxDist, i + nums[i])
             
+            print(curMaxDist)
+            
             if i == end:
                 myjumps += 1
                 
