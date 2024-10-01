@@ -6,9 +6,7 @@ class Solution:
         myjumps = 0
         curMaxDist = 0
         end = 0
-        
-        print(len(nums))
-        
+                
         for i in range(len(nums) - 1):
             
             curMaxDist = max(curMaxDist, i + nums[i])
