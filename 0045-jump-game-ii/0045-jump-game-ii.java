@@ -11,7 +11,6 @@ class Solution {
                 
                 end = curMaxDist;
             }
-               System.out.println();
         }
         
         return myjumps;
