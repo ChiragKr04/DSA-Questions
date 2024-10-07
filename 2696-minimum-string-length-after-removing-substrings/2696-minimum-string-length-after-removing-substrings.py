@@ -9,10 +9,10 @@ class Solution:
                 stack.append(char)
                 continue
                 
-            if char == "B" and stack[-1] == "A":
+            if stack[-1] == "A" and char == "B":
                 stack.pop()
                 
-            elif char == "D" and stack[-1] == "C":
+            elif stack[-1] == "C" and char == "D":
                 stack.pop()
                 
             else:
