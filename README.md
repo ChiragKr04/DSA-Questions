@@ -19,10 +19,12 @@ Leetcode questions with brute force and optimal solutions
 | ------- |
 | [0075-sort-colors](https://github.com/ChiragKr04/DSA-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/0169-majority-element) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ChiragKr04/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ChiragKr04/DSA-Questions/tree/master/0075-sort-colors) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ChiragKr04/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -40,4 +42,8 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ChiragKr04/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
