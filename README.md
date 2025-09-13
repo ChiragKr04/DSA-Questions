@@ -36,6 +36,7 @@ Leetcode questions with brute force and optimal solutions
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ChiragKr04/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/0169-majority-element) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ChiragKr04/DSA-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/0169-majority-element) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ChiragKr04/DSA-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
@@ -52,4 +54,8 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ChiragKr04/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ChiragKr04/DSA-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
