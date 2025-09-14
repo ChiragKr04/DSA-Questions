@@ -69,4 +69,16 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ChiragKr04/DSA-Questions/tree/master/0455-assign-cookies) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ChiragKr04/DSA-Questions/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ChiragKr04/DSA-Questions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ChiragKr04/DSA-Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
