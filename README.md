@@ -20,6 +20,7 @@ Leetcode questions with brute force and optimal solutions
 | [0073-set-matrix-zeroes](https://github.com/ChiragKr04/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ChiragKr04/DSA-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/ChiragKr04/DSA-Questions/tree/master/0455-assign-cookies) |
 | [1006-vowel-spellchecker](https://github.com/ChiragKr04/DSA-Questions/tree/master/1006-vowel-spellchecker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ChiragKr04/DSA-Questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChiragKr04/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -27,12 +28,14 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ChiragKr04/DSA-Questions/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/ChiragKr04/DSA-Questions/tree/master/0455-assign-cookies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChiragKr04/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ChiragKr04/DSA-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/ChiragKr04/DSA-Questions/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +65,8 @@ Leetcode questions with brute force and optimal solutions
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/ChiragKr04/DSA-Questions/tree/master/1006-vowel-spellchecker) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ChiragKr04/DSA-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ChiragKr04/DSA-Questions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
