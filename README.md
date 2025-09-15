@@ -28,6 +28,7 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ChiragKr04/DSA-Questions/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/ChiragKr04/DSA-Questions/tree/master/0143-reorder-list) |
 | [0455-assign-cookies](https://github.com/ChiragKr04/DSA-Questions/tree/master/0455-assign-cookies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChiragKr04/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -83,4 +84,16 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ChiragKr04/DSA-Questions/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ChiragKr04/DSA-Questions/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ChiragKr04/DSA-Questions/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ChiragKr04/DSA-Questions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
