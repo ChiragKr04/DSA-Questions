@@ -43,6 +43,7 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ChiragKr04/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ChiragKr04/DSA-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/0169-majority-element) |
 | [1006-vowel-spellchecker](https://github.com/ChiragKr04/DSA-Questions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ChiragKr04/DSA-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -68,6 +69,7 @@ Leetcode questions with brute force and optimal solutions
 ## String
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/ChiragKr04/DSA-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/ChiragKr04/DSA-Questions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ChiragKr04/DSA-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/ChiragKr04/DSA-Questions/tree/master/2429-design-a-food-rating-system) |
@@ -80,6 +82,7 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ChiragKr04/DSA-Questions/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ChiragKr04/DSA-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 ## Dynamic Programming
 |  |
 | ------- |
