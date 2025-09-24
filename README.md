@@ -19,6 +19,7 @@ Leetcode questions with brute force and optimal solutions
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ChiragKr04/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ChiragKr04/DSA-Questions/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/ChiragKr04/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ChiragKr04/DSA-Questions/tree/master/0198-house-robber) |
 | [0455-assign-cookies](https://github.com/ChiragKr04/DSA-Questions/tree/master/0455-assign-cookies) |
@@ -90,6 +91,7 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ChiragKr04/DSA-Questions/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/ChiragKr04/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ChiragKr04/DSA-Questions/tree/master/0198-house-robber) |
 ## Memoization
 |  |
