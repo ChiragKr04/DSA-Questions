@@ -93,6 +93,7 @@ Leetcode questions with brute force and optimal solutions
 | [0070-climbing-stairs](https://github.com/ChiragKr04/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/ChiragKr04/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ChiragKr04/DSA-Questions/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/ChiragKr04/DSA-Questions/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
@@ -133,4 +134,8 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/ChiragKr04/DSA-Questions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
