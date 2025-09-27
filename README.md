@@ -88,6 +88,7 @@ Leetcode questions with brute force and optimal solutions
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ChiragKr04/DSA-Questions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/ChiragKr04/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ChiragKr04/DSA-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/ChiragKr04/DSA-Questions/tree/master/0204-count-primes) |
@@ -114,6 +115,7 @@ Leetcode questions with brute force and optimal solutions
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ChiragKr04/DSA-Questions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/ChiragKr04/DSA-Questions/tree/master/0143-reorder-list) |
 ## Design
 |  |
