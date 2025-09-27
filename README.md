@@ -23,6 +23,7 @@ Leetcode questions with brute force and optimal solutions
 | [0152-maximum-product-subarray](https://github.com/ChiragKr04/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ChiragKr04/DSA-Questions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/ChiragKr04/DSA-Questions/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/ChiragKr04/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0830-largest-triangle-area](https://github.com/ChiragKr04/DSA-Questions/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/ChiragKr04/DSA-Questions/tree/master/1006-vowel-spellchecker) |
@@ -89,6 +90,7 @@ Leetcode questions with brute force and optimal solutions
 | ------- |
 | [0070-climbing-stairs](https://github.com/ChiragKr04/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ChiragKr04/DSA-Questions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0204-count-primes](https://github.com/ChiragKr04/DSA-Questions/tree/master/0204-count-primes) |
 | [0830-largest-triangle-area](https://github.com/ChiragKr04/DSA-Questions/tree/master/0830-largest-triangle-area) |
 ## Dynamic Programming
 |  |
@@ -150,4 +152,12 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/ChiragKr04/DSA-Questions/tree/master/0830-largest-triangle-area) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ChiragKr04/DSA-Questions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ChiragKr04/DSA-Questions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
