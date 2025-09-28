@@ -27,6 +27,7 @@ Leetcode questions with brute force and optimal solutions
 | [0455-assign-cookies](https://github.com/ChiragKr04/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0830-largest-triangle-area](https://github.com/ChiragKr04/DSA-Questions/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/ChiragKr04/DSA-Questions/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/ChiragKr04/DSA-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ChiragKr04/DSA-Questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChiragKr04/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -44,6 +45,7 @@ Leetcode questions with brute force and optimal solutions
 | [0075-sort-colors](https://github.com/ChiragKr04/DSA-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/ChiragKr04/DSA-Questions/tree/master/0455-assign-cookies) |
+| [1018-largest-perimeter-triangle](https://github.com/ChiragKr04/DSA-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
@@ -84,6 +86,7 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ChiragKr04/DSA-Questions/tree/master/0455-assign-cookies) |
+| [1018-largest-perimeter-triangle](https://github.com/ChiragKr04/DSA-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
@@ -93,6 +96,7 @@ Leetcode questions with brute force and optimal solutions
 | [0166-fraction-to-recurring-decimal](https://github.com/ChiragKr04/DSA-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/ChiragKr04/DSA-Questions/tree/master/0204-count-primes) |
 | [0830-largest-triangle-area](https://github.com/ChiragKr04/DSA-Questions/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/ChiragKr04/DSA-Questions/tree/master/1018-largest-perimeter-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
