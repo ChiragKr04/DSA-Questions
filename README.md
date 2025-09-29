@@ -20,6 +20,7 @@ Leetcode questions with brute force and optimal solutions
 | [0073-set-matrix-zeroes](https://github.com/ChiragKr04/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ChiragKr04/DSA-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ChiragKr04/DSA-Questions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/ChiragKr04/DSA-Questions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/ChiragKr04/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ChiragKr04/DSA-Questions/tree/master/0198-house-robber) |
@@ -151,6 +152,7 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ChiragKr04/DSA-Questions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/ChiragKr04/DSA-Questions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/ChiragKr04/DSA-Questions/tree/master/0338-counting-bits) |
 ## Backtracking
 |  |
