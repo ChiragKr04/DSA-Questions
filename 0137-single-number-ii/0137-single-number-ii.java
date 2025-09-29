@@ -1,21 +1,13 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        
-        Arrays.sort(nums);
+        int ones = 0;
+        int twos = 0;
 
-        int ct = 1;
-        int n = nums.length;
-
-        while(ct < n) {
-
-            if(nums[ct] != nums[ct-1]) {
-                return nums[ct-1];
-            }
-
-            ct += 3;
+        for (final int num : nums) {
+            ones ^= (num & ~twos);
+            twos ^= (num & ~ones);
         }
 
-        return nums[n-1];
-
+        return ones;
     }
 }
