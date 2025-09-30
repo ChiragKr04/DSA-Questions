@@ -1,20 +1,12 @@
 class Solution {
     public int triangularSum(int[] nums) {
-
         int n = nums.length;
 
-        if (n == 1) {
-            return nums[0];
-        }
-
-        for (int i = 1; i < n; i++) {
-            nums[i - 1] = (nums[i - 1] + nums[i]) % 10;
-        }
-
-        for (int i = n - 2; i >= 0; i--) {
-            for (int j = 1; j <= i; j++) {
-                nums[j - 1] = (nums[j - 1] + nums[j]) % 10;
+        while (n > 1) { // keep shrinking until only one number left
+            for (int i = 0; i < n - 1; i++) {
+                nums[i] = (nums[i] + nums[i + 1]) % 10;
             }
+            n--; // effectively the array shrinks by one
         }
 
         return nums[0];
