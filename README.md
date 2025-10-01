@@ -73,6 +73,7 @@ Leetcode questions with brute force and optimal solutions
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/ChiragKr04/DSA-Questions/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChiragKr04/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ChiragKr04/DSA-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Matrix
@@ -102,6 +103,7 @@ Leetcode questions with brute force and optimal solutions
 | [0204-count-primes](https://github.com/ChiragKr04/DSA-Questions/tree/master/0204-count-primes) |
 | [0830-largest-triangle-area](https://github.com/ChiragKr04/DSA-Questions/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/ChiragKr04/DSA-Questions/tree/master/1018-largest-perimeter-triangle) |
+| [1642-water-bottles](https://github.com/ChiragKr04/DSA-Questions/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ChiragKr04/DSA-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Dynamic Programming
 |  |
