@@ -78,6 +78,7 @@ Leetcode questions with brute force and optimal solutions
 | [1642-water-bottles](https://github.com/ChiragKr04/DSA-Questions/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChiragKr04/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ChiragKr04/DSA-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3336-water-bottles-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/3336-water-bottles-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -108,6 +109,7 @@ Leetcode questions with brute force and optimal solutions
 | [1018-largest-perimeter-triangle](https://github.com/ChiragKr04/DSA-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1642-water-bottles](https://github.com/ChiragKr04/DSA-Questions/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ChiragKr04/DSA-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3336-water-bottles-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/3336-water-bottles-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
