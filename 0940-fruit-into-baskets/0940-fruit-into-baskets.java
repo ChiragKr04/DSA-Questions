@@ -1,26 +1,31 @@
 class Solution {
     public int totalFruit(int[] nums) {
-        int start = 0;
-        int max = 0;
         int n = nums.length;
-        HashMap<Integer, Integer> map = new HashMap<>();
+        int lastf = -1;
+        int slastf = -1;
+        int lastct = 0;
+        int max = 0;
+        int curmax = 0;
 
-        for(int end = 0; end < n; end++) {
+        for(int i = 0; i < n; i++) {
 
-            map.put(nums[end], map.getOrDefault(nums[end], 0) + 1);
+            int fruit = nums[i];
 
-            while(map.size() > 2) {
-
-                map.put(nums[start], map.get(nums[start]) - 1);
-                if(map.get(nums[start]) == 0) {
-                    map.remove(nums[start]);
-                }
-
-                start++;
-
+            if(fruit == lastf || fruit == slastf) {
+                curmax++;
+            } else {
+                curmax = lastct + 1;
             }
 
-            max = Math.max(max, end - start + 1);
+            if(fruit == lastf) {
+                lastct++;
+            } else {
+                lastct = 1;
+                slastf = lastf;
+                lastf = fruit;
+            }
+
+            max = Math.max(max, curmax);
 
         }
 
