@@ -17,6 +17,7 @@ Leetcode questions with brute force and optimal solutions
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/ChiragKr04/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ChiragKr04/DSA-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ChiragKr04/DSA-Questions/tree/master/0078-subsets) |
@@ -40,6 +41,7 @@ Leetcode questions with brute force and optimal solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ChiragKr04/DSA-Questions/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/ChiragKr04/DSA-Questions/tree/master/0143-reorder-list) |
 | [0455-assign-cookies](https://github.com/ChiragKr04/DSA-Questions/tree/master/0455-assign-cookies) |
@@ -115,6 +117,7 @@ Leetcode questions with brute force and optimal solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/ChiragKr04/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/ChiragKr04/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ChiragKr04/DSA-Questions/tree/master/0198-house-robber) |
@@ -131,6 +134,7 @@ Leetcode questions with brute force and optimal solutions
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/ChiragKr04/DSA-Questions/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
@@ -189,4 +193,8 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ChiragKr04/DSA-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
