@@ -6,14 +6,14 @@ class Solution {
         int exchangeRate = numExchange;
         int bottleDrunk = 0;
 
-        while(true) {
-            if(fullBottle == numBottles) {
+        while (true) {
+            if (fullBottle == numBottles) {
                 emptyBottles += fullBottle;
                 bottleDrunk += emptyBottles;
                 fullBottle = 0;
                 continue;
             }
-            if(emptyBottles >= exchangeRate) {
+            if (emptyBottles >= exchangeRate) {
                 fullBottle++;
                 emptyBottles = emptyBottles - exchangeRate;
                 exchangeRate++;
@@ -27,6 +27,6 @@ class Solution {
         }
 
         // return bottleDrunk;
-        
+
     }
 }
