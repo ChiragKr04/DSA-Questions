@@ -27,6 +27,7 @@ Leetcode questions with brute force and optimal solutions
 | [0169-majority-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ChiragKr04/DSA-Questions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/ChiragKr04/DSA-Questions/tree/master/0204-count-primes) |
+| [0407-trapping-rain-water-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0455-assign-cookies](https://github.com/ChiragKr04/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0830-largest-triangle-area](https://github.com/ChiragKr04/DSA-Questions/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/ChiragKr04/DSA-Questions/tree/master/0940-fruit-into-baskets) |
@@ -87,6 +88,7 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ChiragKr04/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0407-trapping-rain-water-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/0407-trapping-rain-water-ii) |
 ## String
 |  |
 | ------- |
@@ -148,6 +150,7 @@ Leetcode questions with brute force and optimal solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [2429-design-a-food-rating-system](https://github.com/ChiragKr04/DSA-Questions/tree/master/2429-design-a-food-rating-system) |
 ## Ordered Set
 |  |
@@ -197,4 +200,8 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0042-trapping-rain-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
