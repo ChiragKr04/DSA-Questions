@@ -17,6 +17,7 @@ Leetcode questions with brute force and optimal solutions
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/ChiragKr04/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ChiragKr04/DSA-Questions/tree/master/0075-sort-colors) |
@@ -42,6 +43,7 @@ Leetcode questions with brute force and optimal solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ChiragKr04/DSA-Questions/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/ChiragKr04/DSA-Questions/tree/master/0143-reorder-list) |
@@ -101,6 +103,7 @@ Leetcode questions with brute force and optimal solutions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/ChiragKr04/DSA-Questions/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/ChiragKr04/DSA-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
