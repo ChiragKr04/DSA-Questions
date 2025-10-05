@@ -19,6 +19,7 @@ Leetcode questions with brute force and optimal solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ChiragKr04/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ChiragKr04/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ChiragKr04/DSA-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ChiragKr04/DSA-Questions/tree/master/0078-subsets) |
@@ -74,6 +75,7 @@ Leetcode questions with brute force and optimal solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ChiragKr04/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -128,6 +130,7 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ChiragKr04/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ChiragKr04/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/ChiragKr04/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ChiragKr04/DSA-Questions/tree/master/0198-house-robber) |
