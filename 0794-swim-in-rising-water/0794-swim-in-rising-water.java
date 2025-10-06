@@ -1,39 +1,39 @@
 class Solution {
     public int swimInWater(int[][] grid) {
-        //find the shortest path from (0,0) to (n-1,n-1)
-        //the total time is the max element on the path
-        
+             // Get grid size
         int n = grid.length;
-        int res = 0;
+
+        // Create min-heap for cells by elevation
+        PriorityQueue<int[]> minHeap = new PriorityQueue<>((a, b) -> a[0] - b[0]);
+
+        // Visited matrix
         boolean[][] visited = new boolean[n][n];
-        //each time we choose a smallest cell, representing currently reachable cell at time grid[i][j]
-        PriorityQueue<Integer> pq = new PriorityQueue<Integer>((k1, k2) ->
-                grid[k1 / n][k1 % n] - grid[k2 / n][k2 % n]);
-        pq.offer(0);
-        
-        
-        int[][] dir = new int[][]{{-1,0},{1,0},{0,1},{0,-1}};
-        
-        while (!pq.isEmpty()){
-            int pos = pq.poll();
-            int curX = pos / n;
-            int curY = pos % n;
-            //the time to reach to this cell grid[curX][curY] is max(original time, current time)
-            res = Math.max(res, grid[curX][curY]);
-            
-            if(curX == n - 1 && curY == n - 1){
-                return res;
-            }
-            
-            //do BFS to search all possible cells
-            for(int i = 0; i < 4; i++){
-                int X = curX + dir[i][0];
-                int Y = curY + dir[i][1];
-                if(X < 0 || X >= n || Y < 0 || Y >= n || visited[X][Y] == true){
-                    continue;
+
+        // Push starting cell to heap
+        minHeap.add(new int[]{grid[0][0], 0, 0});
+        visited[0][0] = true;
+
+        // Direction vectors
+        int[][] dirs = {{0,1},{1,0},{0,-1},{-1,0}};
+
+        // Process heap until destination
+        while (!minHeap.isEmpty()) {
+            // Get cell with lowest elevation
+            int[] curr = minHeap.poll();
+            int elevation = curr[0], r = curr[1], c = curr[2];
+
+            // If destination reached
+            if (r == n - 1 && c == n - 1) return elevation;
+
+            // Check all neighbors
+            for (int[] d : dirs) {
+                int nr = r + d[0], nc = c + d[1];
+
+                // Check bounds and visited
+                if (nr >= 0 && nc >= 0 && nr < n && nc < n && !visited[nr][nc]) {
+                    visited[nr][nc] = true;
+                    minHeap.add(new int[]{Math.max(elevation, grid[nr][nc]), nr, nc});
                 }
-                visited[X][Y] = true;
-                pq.offer(X * n + Y);
             }
         }
         return -1;
