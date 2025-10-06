@@ -32,6 +32,7 @@ Leetcode questions with brute force and optimal solutions
 | [0407-trapping-rain-water-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ChiragKr04/DSA-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/ChiragKr04/DSA-Questions/tree/master/0455-assign-cookies) |
+| [0794-swim-in-rising-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/ChiragKr04/DSA-Questions/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/ChiragKr04/DSA-Questions/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/ChiragKr04/DSA-Questions/tree/master/1006-vowel-spellchecker) |
@@ -97,6 +98,7 @@ Leetcode questions with brute force and optimal solutions
 | [0073-set-matrix-zeroes](https://github.com/ChiragKr04/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ChiragKr04/DSA-Questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0794-swim-in-rising-water) |
 ## String
 |  |
 | ------- |
@@ -162,6 +164,7 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0794-swim-in-rising-water) |
 | [2429-design-a-food-rating-system](https://github.com/ChiragKr04/DSA-Questions/tree/master/2429-design-a-food-rating-system) |
 ## Ordered Set
 |  |
@@ -170,6 +173,7 @@ Leetcode questions with brute force and optimal solutions
 ## Binary Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0794-swim-in-rising-water) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -216,8 +220,14 @@ Leetcode questions with brute force and optimal solutions
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ChiragKr04/DSA-Questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0794-swim-in-rising-water) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/ChiragKr04/DSA-Questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0794-swim-in-rising-water) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
