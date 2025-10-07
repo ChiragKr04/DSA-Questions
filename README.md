@@ -27,6 +27,7 @@ Leetcode questions with brute force and optimal solutions
 | [0137-single-number-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/ChiragKr04/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ChiragKr04/DSA-Questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ChiragKr04/DSA-Questions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/ChiragKr04/DSA-Questions/tree/master/0204-count-primes) |
 | [0407-trapping-rain-water-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/0407-trapping-rain-water-ii) |
@@ -50,6 +51,7 @@ Leetcode questions with brute force and optimal solutions
 | [0042-trapping-rain-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ChiragKr04/DSA-Questions/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/ChiragKr04/DSA-Questions/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/ChiragKr04/DSA-Questions/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/ChiragKr04/DSA-Questions/tree/master/0455-assign-cookies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChiragKr04/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -122,6 +124,7 @@ Leetcode questions with brute force and optimal solutions
 | [0050-powx-n](https://github.com/ChiragKr04/DSA-Questions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/ChiragKr04/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ChiragKr04/DSA-Questions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0189-rotate-array](https://github.com/ChiragKr04/DSA-Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ChiragKr04/DSA-Questions/tree/master/0204-count-primes) |
 | [0830-largest-triangle-area](https://github.com/ChiragKr04/DSA-Questions/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/ChiragKr04/DSA-Questions/tree/master/1018-largest-perimeter-triangle) |
