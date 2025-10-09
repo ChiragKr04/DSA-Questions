@@ -26,6 +26,7 @@ Leetcode questions with brute force and optimal solutions
 | [0136-single-number](https://github.com/ChiragKr04/DSA-Questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/ChiragKr04/DSA-Questions/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ChiragKr04/DSA-Questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ChiragKr04/DSA-Questions/tree/master/0198-house-robber) |
@@ -181,6 +182,7 @@ Leetcode questions with brute force and optimal solutions
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/0162-find-peak-element) |
 | [0794-swim-in-rising-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0794-swim-in-rising-water) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ChiragKr04/DSA-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
