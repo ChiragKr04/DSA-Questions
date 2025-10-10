@@ -46,6 +46,7 @@ Leetcode questions with brute force and optimal solutions
 | [2324-find-triangular-sum-of-an-array](https://github.com/ChiragKr04/DSA-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ChiragKr04/DSA-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/ChiragKr04/DSA-Questions/tree/master/2429-design-a-food-rating-system) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ChiragKr04/DSA-Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ChiragKr04/DSA-Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
 |  |
@@ -195,6 +196,7 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ChiragKr04/DSA-Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ChiragKr04/DSA-Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bit Manipulation
 |  |
