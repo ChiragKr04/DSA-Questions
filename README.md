@@ -49,6 +49,7 @@ Leetcode questions with brute force and optimal solutions
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ChiragKr04/DSA-Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ChiragKr04/DSA-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ChiragKr04/DSA-Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ChiragKr04/DSA-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +144,7 @@ Leetcode questions with brute force and optimal solutions
 | [1642-water-bottles](https://github.com/ChiragKr04/DSA-Questions/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ChiragKr04/DSA-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/3336-water-bottles-ii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ChiragKr04/DSA-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +156,7 @@ Leetcode questions with brute force and optimal solutions
 | [0338-counting-bits](https://github.com/ChiragKr04/DSA-Questions/tree/master/0338-counting-bits) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ChiragKr04/DSA-Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ChiragKr04/DSA-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ChiragKr04/DSA-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Memoization
 |  |
 | ------- |
@@ -212,6 +215,7 @@ Leetcode questions with brute force and optimal solutions
 | [0136-single-number](https://github.com/ChiragKr04/DSA-Questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/0137-single-number-ii) |
 | [0338-counting-bits](https://github.com/ChiragKr04/DSA-Questions/tree/master/0338-counting-bits) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ChiragKr04/DSA-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -232,6 +236,7 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ChiragKr04/DSA-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ChiragKr04/DSA-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -251,4 +256,8 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0794-swim-in-rising-water) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ChiragKr04/DSA-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
