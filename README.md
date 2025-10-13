@@ -41,6 +41,7 @@ Leetcode questions with brute force and optimal solutions
 | [1018-largest-perimeter-triangle](https://github.com/ChiragKr04/DSA-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ChiragKr04/DSA-Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ChiragKr04/DSA-Questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/ChiragKr04/DSA-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChiragKr04/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ChiragKr04/DSA-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -69,6 +70,7 @@ Leetcode questions with brute force and optimal solutions
 | [0169-majority-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/ChiragKr04/DSA-Questions/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/ChiragKr04/DSA-Questions/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/ChiragKr04/DSA-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ChiragKr04/DSA-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ChiragKr04/DSA-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -81,6 +83,7 @@ Leetcode questions with brute force and optimal solutions
 | [0940-fruit-into-baskets](https://github.com/ChiragKr04/DSA-Questions/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/ChiragKr04/DSA-Questions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ChiragKr04/DSA-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/ChiragKr04/DSA-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2429-design-a-food-rating-system](https://github.com/ChiragKr04/DSA-Questions/tree/master/2429-design-a-food-rating-system) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ChiragKr04/DSA-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -120,6 +123,7 @@ Leetcode questions with brute force and optimal solutions
 | [0166-fraction-to-recurring-decimal](https://github.com/ChiragKr04/DSA-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/ChiragKr04/DSA-Questions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ChiragKr04/DSA-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/ChiragKr04/DSA-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2429-design-a-food-rating-system](https://github.com/ChiragKr04/DSA-Questions/tree/master/2429-design-a-food-rating-system) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ChiragKr04/DSA-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
