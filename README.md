@@ -47,6 +47,7 @@ Leetcode questions with brute force and optimal solutions
 | [2324-find-triangular-sum-of-an-array](https://github.com/ChiragKr04/DSA-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ChiragKr04/DSA-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/ChiragKr04/DSA-Questions/tree/master/2429-design-a-food-rating-system) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ChiragKr04/DSA-Questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ChiragKr04/DSA-Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ChiragKr04/DSA-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ChiragKr04/DSA-Questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -88,6 +89,7 @@ Leetcode questions with brute force and optimal solutions
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ChiragKr04/DSA-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2429-design-a-food-rating-system](https://github.com/ChiragKr04/DSA-Questions/tree/master/2429-design-a-food-rating-system) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ChiragKr04/DSA-Questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ChiragKr04/DSA-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ChiragKr04/DSA-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ChiragKr04/DSA-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -137,6 +139,7 @@ Leetcode questions with brute force and optimal solutions
 | [0455-assign-cookies](https://github.com/ChiragKr04/DSA-Questions/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/ChiragKr04/DSA-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ChiragKr04/DSA-Questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Math
 |  |
 | ------- |
@@ -149,6 +152,7 @@ Leetcode questions with brute force and optimal solutions
 | [1018-largest-perimeter-triangle](https://github.com/ChiragKr04/DSA-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1642-water-bottles](https://github.com/ChiragKr04/DSA-Questions/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ChiragKr04/DSA-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ChiragKr04/DSA-Questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/3336-water-bottles-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ChiragKr04/DSA-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
