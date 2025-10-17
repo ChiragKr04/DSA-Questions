@@ -130,6 +130,7 @@ Leetcode questions with brute force and optimal solutions
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ChiragKr04/DSA-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2429-design-a-food-rating-system](https://github.com/ChiragKr04/DSA-Questions/tree/master/2429-design-a-food-rating-system) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ChiragKr04/DSA-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ChiragKr04/DSA-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ChiragKr04/DSA-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
@@ -165,6 +166,7 @@ Leetcode questions with brute force and optimal solutions
 | [0198-house-robber](https://github.com/ChiragKr04/DSA-Questions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/ChiragKr04/DSA-Questions/tree/master/0338-counting-bits) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ChiragKr04/DSA-Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ChiragKr04/DSA-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ChiragKr04/DSA-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ChiragKr04/DSA-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Memoization
@@ -226,6 +228,7 @@ Leetcode questions with brute force and optimal solutions
 | [0136-single-number](https://github.com/ChiragKr04/DSA-Questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/0137-single-number-ii) |
 | [0338-counting-bits](https://github.com/ChiragKr04/DSA-Questions/tree/master/0338-counting-bits) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ChiragKr04/DSA-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ChiragKr04/DSA-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Backtracking
 |  |
@@ -270,5 +273,6 @@ Leetcode questions with brute force and optimal solutions
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ChiragKr04/DSA-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ChiragKr04/DSA-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
