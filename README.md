@@ -130,6 +130,7 @@ Leetcode questions with brute force and optimal solutions
 | [1006-vowel-spellchecker](https://github.com/ChiragKr04/DSA-Questions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ChiragKr04/DSA-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ChiragKr04/DSA-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ChiragKr04/DSA-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2429-design-a-food-rating-system](https://github.com/ChiragKr04/DSA-Questions/tree/master/2429-design-a-food-rating-system) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ChiragKr04/DSA-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -245,6 +246,7 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ChiragKr04/DSA-Questions/tree/master/0204-count-primes) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ChiragKr04/DSA-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Number Theory
 |  |
 | ------- |
@@ -264,11 +266,13 @@ Leetcode questions with brute force and optimal solutions
 | [0407-trapping-rain-water-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ChiragKr04/DSA-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0794-swim-in-rising-water) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ChiragKr04/DSA-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/ChiragKr04/DSA-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0794-swim-in-rising-water) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ChiragKr04/DSA-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Union Find
 |  |
 | ------- |
