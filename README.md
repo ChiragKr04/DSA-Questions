@@ -43,6 +43,7 @@ Leetcode questions with brute force and optimal solutions
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ChiragKr04/DSA-Questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ChiragKr04/DSA-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ChiragKr04/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ChiragKr04/DSA-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChiragKr04/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ChiragKr04/DSA-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ChiragKr04/DSA-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -112,6 +113,7 @@ Leetcode questions with brute force and optimal solutions
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/ChiragKr04/DSA-Questions/tree/master/1642-water-bottles) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ChiragKr04/DSA-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChiragKr04/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ChiragKr04/DSA-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/3336-water-bottles-ii) |
@@ -131,6 +133,7 @@ Leetcode questions with brute force and optimal solutions
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ChiragKr04/DSA-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ChiragKr04/DSA-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ChiragKr04/DSA-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ChiragKr04/DSA-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2429-design-a-food-rating-system](https://github.com/ChiragKr04/DSA-Questions/tree/master/2429-design-a-food-rating-system) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ChiragKr04/DSA-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
