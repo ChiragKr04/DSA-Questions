@@ -5,7 +5,7 @@ class Solution {
 
         for(String s: operations) {
 
-            if(s.equals("++X") || s.equals("X++")) {
+            if(s.contains("+")) {
                 value++;
             } else {
                 value--;
