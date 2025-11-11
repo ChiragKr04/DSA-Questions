@@ -39,6 +39,7 @@ Leetcode questions with brute force and optimal solutions
 | [0940-fruit-into-baskets](https://github.com/ChiragKr04/DSA-Questions/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/ChiragKr04/DSA-Questions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/ChiragKr04/DSA-Questions/tree/master/1018-largest-perimeter-triangle) |
+| [1036-rotting-oranges](https://github.com/ChiragKr04/DSA-Questions/tree/master/1036-rotting-oranges) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ChiragKr04/DSA-Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ChiragKr04/DSA-Questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ChiragKr04/DSA-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -126,6 +127,7 @@ Leetcode questions with brute force and optimal solutions
 | [0407-trapping-rain-water-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ChiragKr04/DSA-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0794-swim-in-rising-water) |
+| [1036-rotting-oranges](https://github.com/ChiragKr04/DSA-Questions/tree/master/1036-rotting-oranges) |
 ## String
 |  |
 | ------- |
@@ -273,6 +275,7 @@ Leetcode questions with brute force and optimal solutions
 | [0407-trapping-rain-water-ii](https://github.com/ChiragKr04/DSA-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ChiragKr04/DSA-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/ChiragKr04/DSA-Questions/tree/master/0794-swim-in-rising-water) |
+| [1036-rotting-oranges](https://github.com/ChiragKr04/DSA-Questions/tree/master/1036-rotting-oranges) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ChiragKr04/DSA-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Depth-First Search
 |  |
